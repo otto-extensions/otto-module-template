@@ -13,6 +13,7 @@ It defines the recommended folder structure, manifest formats, and integration p
 - Documentation for module authors
 
 ## Folder Structure
+
 my-module/
 ├── src/
 │   ├── commands/        # Command handlers
