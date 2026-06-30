@@ -13,7 +13,7 @@ It defines the recommended folder structure, manifest formats, and integration p
 - Documentation for module authors
 
 ## Folder Structure
-
+```
 my-module/
 ├── src/
 │   ├── commands/        # Command handlers
@@ -24,8 +24,8 @@ my-module/
 │   ├── commands.json    # Command definitions
 │   └── ui.json          # UI definitions
 ├── docs/                # Developer documentation
-└── tests/               # Unit and integration tests
-
+└── tests/               # Unit and integration tests`
+```
 ## Getting Started
 1. Fork this repository.
 2. Rename your fork to match your module.
